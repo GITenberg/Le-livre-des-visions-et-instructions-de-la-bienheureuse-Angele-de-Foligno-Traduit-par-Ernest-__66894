@@ -1,0 +1,30 @@
+_repo: Le-livre-des-visions-et-instructions-de-la-bienheureuse-Angele-de-Foligno-Traduit-par-Ernest-__66894
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Goyau, Georges
+    gutenberg_agent_id: '54014'
+    url: http://www.gutenberg.org/2009/agents/54014
+  translator:
+    agent_name: Hello, Ernest
+    gutenberg_agent_id: '54013'
+    url: http://www.gutenberg.org/2009/agents/54013
+creator:
+  author:
+    agent_name: Foligno, Angèle de
+    gutenberg_agent_id: '54012'
+    url: http://www.gutenberg.org/2009/agents/54012
+description: ''
+gutenberg_issued: '2021-12-07'
+identifiers:
+  gutenberg: '66894'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Le livre des visions et instructions de la bienheureuse Angèle de Foligno
+
+  Traduit par Ernest Hello avec avertissement de Georges Goyau, de l''Académie française'
+url: http://www.gutenberg.org/ebooks/66894
