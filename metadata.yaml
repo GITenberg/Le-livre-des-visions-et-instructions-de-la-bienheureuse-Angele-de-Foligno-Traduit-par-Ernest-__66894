@@ -9,12 +9,17 @@ contributor:
     agent_name: Hello, Ernest
     gutenberg_agent_id: '54013'
     url: http://www.gutenberg.org/2009/agents/54013
+covers:
+- cover_type: archival
+  image_path: 66894-h/images/cover.jpg
 creator:
   author:
     agent_name: Foligno, Angèle de
     gutenberg_agent_id: '54012'
     url: http://www.gutenberg.org/2009/agents/54012
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66894#Le-livre-des-visions-et-instructions-de-la-bienheureuse-Angele-de-Foligno-Traduit-par-Ernest-_
 gutenberg_issued: '2021-12-07'
 identifiers:
   gutenberg: '66894'
